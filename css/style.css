@@ -50,6 +50,7 @@ color:white;
 
 .navbar ul{
 display:flex;
+flex-wrap: wrap;
 gap:35px;
 list-style:none;
 }
